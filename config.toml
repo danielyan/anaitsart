@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://levdan.github.io/anaitsart/"
+baseurl = "https://danielyan.github.io/anaitsart/"
 languageCode = "en-us"
 title = "Anait Semirdzhyan"
 theme = "freelancer"
